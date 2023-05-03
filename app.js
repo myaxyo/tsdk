@@ -12,19 +12,19 @@ const guests = [
   {
     name: "Brain Katrek",
     whois: "Tournament Commentator And Host Of PGA TOUR Radio",
-    img: "http://theworldputtingleague.com/assets/img/club/katrek.png",
+    img: "./images/katrek.png",
     link: "https://www.siriusxm.com/channels/siriusxm-pga-tour-radio",
   },
   {
     name: "Rob Pizzola",
     whois: "Featured Guest",
-    img: "http://theworldputtingleague.com/assets/img/club/RobPizzolo.png",
+    img: "./images/RobPizzolo.png",
     link: "https://twitter.com/robpizzola",
   },
   {
     name: "Kaz Brown",
     whois: "On-Air Host From Pro League Network",
-    img: "http://theworldputtingleague.com/assets/img/club/kaz.png",
+    img: "./images/kaz.png",
     link: "http://theworldputtingleague.com/",
   },
 ];
@@ -131,77 +131,77 @@ const players = [
   {
     name: "Bob Howards",
     origin: "New York",
-    img: "http://theworldputtingleague.com/assets/img/team/Jay%20Klapper%20-%20Georgia.png",
+    img: "../images/Jay Klapper - Georgia.png",
   },
   {
     name: "John Smith",
     origin: "California",
-    img: "http://theworldputtingleague.com/assets/img/team/Jay%20Klapper%20-%20Georgia.png",
+    img: "../images/Jay Klapper - Georgia.png",
   },
   {
     name: "Anna Lee",
     origin: "Texas",
-    img: "http://theworldputtingleague.com/assets/img/team/Jay%20Klapper%20-%20Georgia.png",
+    img: "../images/Jay Klapper - Georgia.png",
   },
   {
     name: "Max Johnson",
     origin: "Florida",
-    img: "http://theworldputtingleague.com/assets/img/team/Jay%20Klapper%20-%20Georgia.png",
+    img: "../images/Jay Klapper - Georgia.png",
   },
   {
     name: "Samantha Davis",
     origin: "Washington",
-    img: "http://theworldputtingleague.com/assets/img/team/Jay%20Klapper%20-%20Georgia.png",
+    img: "../images/Jay Klapper - Georgia.png",
   },
   {
     name: "Tyler Brown",
     origin: "Ohio",
-    img: "http://theworldputtingleague.com/assets/img/team/Jay%20Klapper%20-%20Georgia.png",
+    img: "../images/Jay Klapper - Georgia.png",
   },
   {
     name: "Emily Martinez",
     origin: "Arizona",
-    img: "http://theworldputtingleague.com/assets/img/team/Jay%20Klapper%20-%20Georgia.png",
+    img: "../images/Jay Klapper - Georgia.png",
   },
   {
     name: "Alex Hernandez",
     origin: "Illinois",
-    img: "http://theworldputtingleague.com/assets/img/team/Jay%20Klapper%20-%20Georgia.png",
+    img: "../images/Jay Klapper - Georgia.png",
   },
   {
     name: "Sophia Nguyen",
     origin: "Virginia",
-    img: "http://theworldputtingleague.com/assets/img/team/Jay%20Klapper%20-%20Georgia.png",
+    img: "../images/Jay Klapper - Georgia.png",
   },
   {
     name: "William Kim",
     origin: "Georgia",
-    img: "http://theworldputtingleague.com/assets/img/team/Jay%20Klapper%20-%20Georgia.png",
+    img: "../images/Jay Klapper - Georgia.png",
   },
   {
     name: "Emma Adams",
     origin: "North Carolina",
-    img: "http://theworldputtingleague.com/assets/img/team/Jay%20Klapper%20-%20Georgia.png",
+    img: "../images/Jay Klapper - Georgia.png",
   },
   {
     name: "James Baker",
     origin: "Michigan",
-    img: "http://theworldputtingleague.com/assets/img/team/Jay%20Klapper%20-%20Georgia.png",
+    img: "../images/Jay Klapper - Georgia.png",
   },
   {
     name: "Olivia Taylor",
     origin: "Pennsylvania",
-    img: "http://theworldputtingleague.com/assets/img/team/Jay%20Klapper%20-%20Georgia.png",
+    img: "../images/Jay Klapper - Georgia.png",
   },
   {
     name: "Daniel Rodriguez",
     origin: "New Jersey",
-    img: "http://theworldputtingleague.com/assets/img/team/Jay%20Klapper%20-%20Georgia.png",
+    img: "../images/Jay Klapper - Georgia.png",
   },
   {
     name: "Avery Wilson",
     origin: "Tennessee",
-    img: "http://theworldputtingleague.com/assets/img/team/Jay%20Klapper%20-%20Georgia.png",
+    img: "../images/Jay Klapper - Georgia.png",
   },
 ];
 
